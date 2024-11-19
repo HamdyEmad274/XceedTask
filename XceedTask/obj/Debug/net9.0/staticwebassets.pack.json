@@ -1,0 +1,413 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\XceedTask.bundle.scp.css",
+      "PackagePath": "staticwebassets\\XceedTask.gveox1w11y.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\08faf0f0-c079-46c4-aae3-5265d1c27a83_Screenshot (119).png",
+      "PackagePath": "staticwebassets\\Images\\08faf0f0-c079-46c4-aae3-5265d1c27a83_Screenshot (119).png"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\10d00d84-1096-4ab6-a7f0-9160bf0b4103_WhatsApp Image 2023-08-13 at 2.50.38 AM.jpeg",
+      "PackagePath": "staticwebassets\\Images\\10d00d84-1096-4ab6-a7f0-9160bf0b4103_WhatsApp Image 2023-08-13 at 2.50.38 AM.jpeg"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\2f33aa05-7eee-4721-85b9-106a922ad142_Xamai.jpg",
+      "PackagePath": "staticwebassets\\Images\\2f33aa05-7eee-4721-85b9-106a922ad142_Xamai.jpg"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\30f41773-78f3-4fb2-a49f-552b6f5e8990_Capture2.PNG",
+      "PackagePath": "staticwebassets\\Images\\30f41773-78f3-4fb2-a49f-552b6f5e8990_Capture2.PNG"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\34307ef7-5460-4219-9d7e-919ef12687c7_Screenshot (3).png",
+      "PackagePath": "staticwebassets\\Images\\34307ef7-5460-4219-9d7e-919ef12687c7_Screenshot (3).png"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\3c0705ea-6c00-486a-be0b-443f25f1ce13_Iphone.jpg",
+      "PackagePath": "staticwebassets\\Images\\3c0705ea-6c00-486a-be0b-443f25f1ce13_Iphone.jpg"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\3f76d46a-f205-4834-8cb7-63216df0bbe2_Screenshot (14).png",
+      "PackagePath": "staticwebassets\\Images\\3f76d46a-f205-4834-8cb7-63216df0bbe2_Screenshot (14).png"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\452e8e96-6087-4d69-b26f-3986f0cef40c_Hp.jpg",
+      "PackagePath": "staticwebassets\\Images\\452e8e96-6087-4d69-b26f-3986f0cef40c_Hp.jpg"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\4fb80622-ef18-439d-9a29-5b9b1201ac03_Screenshot (22).png",
+      "PackagePath": "staticwebassets\\Images\\4fb80622-ef18-439d-9a29-5b9b1201ac03_Screenshot (22).png"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\5a2ea840-f5f7-4d57-92f9-da85bdb45dcf_2023-02-20.png",
+      "PackagePath": "staticwebassets\\Images\\5a2ea840-f5f7-4d57-92f9-da85bdb45dcf_2023-02-20.png"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\5e4ba797-9eab-4fbb-a49b-76e3e0c93de0_Huamie.jpg",
+      "PackagePath": "staticwebassets\\Images\\5e4ba797-9eab-4fbb-a49b-76e3e0c93de0_Huamie.jpg"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\5fcaf65e-99b3-47db-84de-10cb1b8a5370_Screenshot (15).png",
+      "PackagePath": "staticwebassets\\Images\\5fcaf65e-99b3-47db-84de-10cb1b8a5370_Screenshot (15).png"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\64884fa9-ac65-46cc-8e52-b0e62e20b966_Screenshot (10).png",
+      "PackagePath": "staticwebassets\\Images\\64884fa9-ac65-46cc-8e52-b0e62e20b966_Screenshot (10).png"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\70063cef-e013-4cfd-a051-1ec3ab39d742_WhatsApp Image 2023-08-13 at 2.50.38 AM.jpeg",
+      "PackagePath": "staticwebassets\\Images\\70063cef-e013-4cfd-a051-1ec3ab39d742_WhatsApp Image 2023-08-13 at 2.50.38 AM.jpeg"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\779b6e6d-99d4-4330-bbae-dbaf36a5053a_WhatsApp Image 2023-08-13 at 2.50.38 AM.jpeg",
+      "PackagePath": "staticwebassets\\Images\\779b6e6d-99d4-4330-bbae-dbaf36a5053a_WhatsApp Image 2023-08-13 at 2.50.38 AM.jpeg"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\Login.png",
+      "PackagePath": "staticwebassets\\Images\\Login.png"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\a0b36f84-3dac-4551-a012-0789ffa964cf_WhatsApp Image 2023-08-13 at 2.46.15 AM.jpeg",
+      "PackagePath": "staticwebassets\\Images\\a0b36f84-3dac-4551-a012-0789ffa964cf_WhatsApp Image 2023-08-13 at 2.46.15 AM.jpeg"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\accaa8f8-4078-4cce-af1f-283f11ab14f2_WhatsApp Image 2023-08-13 at 2.50.38 AM.jpeg",
+      "PackagePath": "staticwebassets\\Images\\accaa8f8-4078-4cce-af1f-283f11ab14f2_WhatsApp Image 2023-08-13 at 2.50.38 AM.jpeg"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\b02680ae-2b74-410f-a743-ababd5560031_hundia.jpg",
+      "PackagePath": "staticwebassets\\Images\\b02680ae-2b74-410f-a743-ababd5560031_hundia.jpg"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\b07facfb-a0e0-4ec5-a2b1-60bb051c24e2_Screenshot (10).png",
+      "PackagePath": "staticwebassets\\Images\\b07facfb-a0e0-4ec5-a2b1-60bb051c24e2_Screenshot (10).png"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\b38a75b9-333d-46e3-a94b-fba5498ce403_Screenshot (9).png",
+      "PackagePath": "staticwebassets\\Images\\b38a75b9-333d-46e3-a94b-fba5498ce403_Screenshot (9).png"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\b521c973-2bc9-41b5-9187-f4e4d5254060_Screenshot (19).png",
+      "PackagePath": "staticwebassets\\Images\\b521c973-2bc9-41b5-9187-f4e4d5254060_Screenshot (19).png"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\b7f9e14f-5e8b-4783-843d-b81797ebd1e1_hundia.jpg",
+      "PackagePath": "staticwebassets\\Images\\b7f9e14f-5e8b-4783-843d-b81797ebd1e1_hundia.jpg"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\be49f20d-0204-4a25-b711-a3ffd83cfb47_Capture.PNG",
+      "PackagePath": "staticwebassets\\Images\\be49f20d-0204-4a25-b711-a3ffd83cfb47_Capture.PNG"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\c39dc3d1-397f-457b-a977-9669f2794964_Home Page.png",
+      "PackagePath": "staticwebassets\\Images\\c39dc3d1-397f-457b-a977-9669f2794964_Home Page.png"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\c93c96ad-fc8b-4056-826c-d291d7c5daf7_WhatsApp Image 2023-08-13 at 2.50.38 AM.jpeg",
+      "PackagePath": "staticwebassets\\Images\\c93c96ad-fc8b-4056-826c-d291d7c5daf7_WhatsApp Image 2023-08-13 at 2.50.38 AM.jpeg"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\cd558aee-b1b7-4eb2-826b-9b7dc5eb1dc5_Screenshot (22).png",
+      "PackagePath": "staticwebassets\\Images\\cd558aee-b1b7-4eb2-826b-9b7dc5eb1dc5_Screenshot (22).png"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\eccf0d28-41d3-4322-a2b5-a2741c1ec754_Screenshot (21).png",
+      "PackagePath": "staticwebassets\\Images\\eccf0d28-41d3-4322-a2b5-a2741c1ec754_Screenshot (21).png"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\efc3a936-3aea-428b-8eaa-ba2a741dcc54_Screenshot (12).png",
+      "PackagePath": "staticwebassets\\Images\\efc3a936-3aea-428b-8eaa-ba2a741dcc54_Screenshot (12).png"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\f07961c4-2ae8-45fd-acf7-ab650a6b96bb_Dell G15 5511.jpg",
+      "PackagePath": "staticwebassets\\Images\\f07961c4-2ae8-45fd-acf7-ab650a6b96bb_Dell G15 5511.jpg"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\Images\\ff547d01-bed6-4c0e-a9d8-c4017595bc19_Hundia2.jpg",
+      "PackagePath": "staticwebassets\\Images\\ff547d01-bed6-4c0e-a9d8-c4017595bc19_Hundia2.jpg"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\Hamdy\\Interview Questions\\Xceed Product\\XceedTask\\XceedTask\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.XceedTask.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.XceedTask.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.XceedTask.props",
+      "PackagePath": "build\\XceedTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.XceedTask.props",
+      "PackagePath": "buildMultiTargeting\\XceedTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.XceedTask.props",
+      "PackagePath": "buildTransitive\\XceedTask.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

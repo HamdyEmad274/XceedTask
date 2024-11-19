@@ -1,0 +1,18 @@
+﻿@model Product
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <div class="card col-3 m-3" style="width: 18rem;">
+        <img src="/Images/@Model.Image" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">@Model.Name</h5>
+            <p class="card-text">@Model.Price</p>
+            <a class="btn btn-secondary" asp-action="Edit" asp-route-id="@Model.Id">Details</a>
+            <a class="btn btn-danger" asp-action="ShowProductsForUsers" asp-controller="Product">Go to All Product</a>
+        </div>
+    </div>

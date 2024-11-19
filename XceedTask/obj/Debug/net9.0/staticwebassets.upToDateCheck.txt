@@ -1,0 +1,160 @@
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\jquery-validation\LICENSE.md
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\jquery\dist\jquery.min.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\favicon.ico
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\jquery\LICENSE.txt
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\js\site.js
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\jquery\dist\jquery.min.js
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\css\site.css
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\Hamdy\Interview Questions\Xceed Product\XceedTask\XceedTask\wwwroot\lib\jquery\dist\jquery.js
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\Images\08faf0f0-c079-46c4-aae3-5265d1c27a83_Screenshot (119).png
+wwwroot\Images\10d00d84-1096-4ab6-a7f0-9160bf0b4103_WhatsApp Image 2023-08-13 at 2.50.38 AM.jpeg
+wwwroot\Images\2f33aa05-7eee-4721-85b9-106a922ad142_Xamai.jpg
+wwwroot\Images\30f41773-78f3-4fb2-a49f-552b6f5e8990_Capture2.PNG
+wwwroot\Images\34307ef7-5460-4219-9d7e-919ef12687c7_Screenshot (3).png
+wwwroot\Images\3c0705ea-6c00-486a-be0b-443f25f1ce13_Iphone.jpg
+wwwroot\Images\3f76d46a-f205-4834-8cb7-63216df0bbe2_Screenshot (14).png
+wwwroot\Images\452e8e96-6087-4d69-b26f-3986f0cef40c_Hp.jpg
+wwwroot\Images\4fb80622-ef18-439d-9a29-5b9b1201ac03_Screenshot (22).png
+wwwroot\Images\5a2ea840-f5f7-4d57-92f9-da85bdb45dcf_2023-02-20.png
+wwwroot\Images\5e4ba797-9eab-4fbb-a49b-76e3e0c93de0_Huamie.jpg
+wwwroot\Images\5fcaf65e-99b3-47db-84de-10cb1b8a5370_Screenshot (15).png
+wwwroot\Images\64884fa9-ac65-46cc-8e52-b0e62e20b966_Screenshot (10).png
+wwwroot\Images\70063cef-e013-4cfd-a051-1ec3ab39d742_WhatsApp Image 2023-08-13 at 2.50.38 AM.jpeg
+wwwroot\Images\779b6e6d-99d4-4330-bbae-dbaf36a5053a_WhatsApp Image 2023-08-13 at 2.50.38 AM.jpeg
+wwwroot\Images\a0b36f84-3dac-4551-a012-0789ffa964cf_WhatsApp Image 2023-08-13 at 2.46.15 AM.jpeg
+wwwroot\Images\accaa8f8-4078-4cce-af1f-283f11ab14f2_WhatsApp Image 2023-08-13 at 2.50.38 AM.jpeg
+wwwroot\Images\b02680ae-2b74-410f-a743-ababd5560031_hundia.jpg
+wwwroot\Images\b07facfb-a0e0-4ec5-a2b1-60bb051c24e2_Screenshot (10).png
+wwwroot\Images\b38a75b9-333d-46e3-a94b-fba5498ce403_Screenshot (9).png
+wwwroot\Images\b521c973-2bc9-41b5-9187-f4e4d5254060_Screenshot (19).png
+wwwroot\Images\b7f9e14f-5e8b-4783-843d-b81797ebd1e1_hundia.jpg
+wwwroot\Images\be49f20d-0204-4a25-b711-a3ffd83cfb47_Capture.PNG
+wwwroot\Images\c39dc3d1-397f-457b-a977-9669f2794964_Home Page.png
+wwwroot\Images\c93c96ad-fc8b-4056-826c-d291d7c5daf7_WhatsApp Image 2023-08-13 at 2.50.38 AM.jpeg
+wwwroot\Images\cd558aee-b1b7-4eb2-826b-9b7dc5eb1dc5_Screenshot (22).png
+wwwroot\Images\eccf0d28-41d3-4322-a2b5-a2741c1ec754_Screenshot (21).png
+wwwroot\Images\efc3a936-3aea-428b-8eaa-ba2a741dcc54_Screenshot (12).png
+wwwroot\Images\f07961c4-2ae8-45fd-acf7-ab650a6b96bb_Dell G15 5511.jpg
+wwwroot\Images\ff547d01-bed6-4c0e-a9d8-c4017595bc19_Hundia2.jpg
+wwwroot\Images\Login.png
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt

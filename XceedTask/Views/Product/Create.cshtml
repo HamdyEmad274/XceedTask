@@ -1,0 +1,15 @@
+﻿@model Product
+@{
+    ViewData["Title"] = "Create";
+    ViewBag.link = "Create";
+    //SelectList listIofCategories = new SelectList(ViewBag.Categories, "Id", "Name");
+}
+<h1>Create Product</h1>
+<hr />
+<partial name="_CreateAndEditPartialView" model="Model" />
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
